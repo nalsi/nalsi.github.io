@@ -11,18 +11,14 @@ I am an Assistant Professor at the [School of Information Sciences](https://sis.
 
 ## Research
 
-My work examines a broad range of questions in the science of science: how research methods and software are cited and reused, how metadata standards shape knowledge organization, how gender and language shape participation in global research, and how scholarly communication infrastructure (such as OpenAlex, VIAF, and library catalogs) reflects and reinforces disciplinary boundaries. I work extensively with large-scale datasets and computational methods, including bibliometric pipelines, network analysis, and machine learning.
-
-Recent and ongoing projects include:
-
-- Book review coverage of academic monographs across disciplines
-- Gender disparities in STEM research in China
-- LCC/DDC co-assignment patterns in large-scale library catalogs
-- Preprint repository usage and academic competition
+My work examines a broad range of questions across library and information science and quantitative science studies, by making use of computational methods to construct and bridge large-scale datasets. My major research interests include:
+- How are research methods and software cited and reused in scholarly research?
+- How do gender and language shape global research communities?
+- What unique contributions can library metadata communities make to global research data infrastructure?
 
 ## Teaching
 
-At UTK, I teach **INSC 512: Information Organization & Retrieval** and **INSC 592: Introduction to Data Analytics and Visualization**. My teaching emphasizes hands-on experience with data tools (including R and RStudio) and real-world datasets, preparing students to work with information at scale.
+At UTK, I teach **INSC 512: Information Organization & Retrieval**, **INSC 590: Introduction to Data Visualization** and **INSC 592: Introduction to Data Analytics**. My teaching emphasizes hands-on experience with data tools (including R and RStudio) and real-world datasets, preparing students to work with information at scale.
 
 ## Service
 
