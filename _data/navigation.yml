@@ -1,7 +1,7 @@
 # Main navigation links — only three tabs shown
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/

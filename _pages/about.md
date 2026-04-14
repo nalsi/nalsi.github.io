@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [School of Information Sciences](https://sis.utk.edu/), University of Tennessee, Knoxville. My research sits at the intersection of **scholarly communication**, **bibliometrics**, and **quantitative science studies**, with additional interests in digital humanities, information organization, and science and technology studies. I draw on large-scale bibliometric data, network analysis, and natural language processing to study how scientific knowledge is produced, organized, and communicated.
+I am an Assistant Professor at the [School of Information Sciences](https://sis.utk.edu/), University of Tennessee, Knoxville. My research sits at the intersection of **scholarly communication**, **quantitative science studies**, and **metadata studies**, with additional interests in digital humanities and science and technology studies. I draw on large-scale bibliometric data, network analysis, and natural language processing to study how scientific knowledge is produced, organized, and communicated.
 
 ## Research
 
