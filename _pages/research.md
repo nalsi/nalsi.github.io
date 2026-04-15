@@ -53,7 +53,7 @@ I strive to understand how library metadata has been created and maintained, and
 
 **Selected publications:**
 
-- - Zhou, H., Li, K., Guns, R., Dobreski, B., & Engles, T. The World in the Stacks: A Quantitative Study of Geographic and Language Representation in the Library of Congress Book Collection. Available at SSRN 6074309.
+- Zhou, H., Li, K., Guns, R., Dobreski, B., & Engles, T. The World in the Stacks: A Quantitative Study of Geographic and Language Representation in the Library of Congress Book Collection. Available at SSRN 6074309.
 
 - Li, K., Dobreski, B., & Busch, M. (2024). How are library cataloging metadata used differently over time: A large-scale quantitative analysis of the Library of Congress catalog. *Journal of Documentation*, 81(2), 385–402. [https://doi.org/10.1108/JD-08-2024-0199](https://doi.org/10.1108/JD-08-2024-0199)
 
